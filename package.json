@@ -1,0 +1,17 @@
+{
+  "name": "princeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "hapi": "^17.5.0",
+    "request": "^2.87.0"
+  }
+}
